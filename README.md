@@ -2,8 +2,7 @@
 
 | | |
 |---|---|
-| **Name** | Syed Muhammad Hussain Riaz |
-| **Roll number** | EE-076 |
+| **Name** | Syed Muhammad Hussain Riaz (EE-076) , M.Moiz Saqib (EE-084) , M.Moiz Alam (EE-070) |
 | **Subject** | ITFA (course code EF-101) |
 | **Instructor** | Dr. Fezan Rafique |
 | **Submission** | Week 13, Monday 9 November 2026 |
